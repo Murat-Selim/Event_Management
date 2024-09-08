@@ -26,8 +26,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/event-management-project.git
-    cd event-management-project
+    https://github.com/Murat-Selim/Event_Management_Project.git
+    cd Event-Management-Project
     ```
 
 2. **Install dependencies**:
