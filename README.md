@@ -26,8 +26,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/event-management-solana.git
-    cd event-management-solana
+    git clone https://github.com/your-username/event-management-project.git
+    cd event-management-project
     ```
 
 2. **Install dependencies**:
